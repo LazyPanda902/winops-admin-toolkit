@@ -6,3 +6,5 @@ __pycache__/
 *.db
 *.sqlite
 .pytest_cache/
+docs/source-inspiration.json
+.ruff_cache/
