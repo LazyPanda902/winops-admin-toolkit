@@ -1,0 +1,16 @@
+{
+  "disk_usage": {
+    "warning_percent": 80,
+    "critical_percent": 90
+  },
+  "event_log": {
+    "top_n": 5,
+    "error_levels": ["Error", "Critical"]
+  },
+  "services": {
+    "alert_start_types": ["Automatic"]
+  },
+  "output": {
+    "timestamp_format": "%Y-%m-%dT%H:%M:%SZ"
+  }
+}

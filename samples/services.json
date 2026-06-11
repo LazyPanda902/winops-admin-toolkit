@@ -1,0 +1,12 @@
+[
+  {"name": "Spooler",         "state": "Stopped",  "start_type": "Automatic", "pid": null, "host": "DEMO-PC-01"},
+  {"name": "wuauserv",        "state": "Running",  "start_type": "Automatic", "pid": 2344, "host": "DEMO-PC-01"},
+  {"name": "W32Time",         "state": "Running",  "start_type": "Automatic", "pid": 1988, "host": "DEMO-PC-01"},
+  {"name": "BITS",            "state": "Stopped",  "start_type": "Manual",    "pid": null, "host": "DEMO-PC-01"},
+  {"name": "WinDefend",       "state": "Running",  "start_type": "Automatic", "pid": 3012, "host": "DEMO-PC-01"},
+  {"name": "EventLog",        "state": "Running",  "start_type": "Automatic", "pid": 756,  "host": "DEMO-PC-01"},
+  {"name": "LanmanServer",    "state": "Running",  "start_type": "Automatic", "pid": 4520, "host": "DEMO-PC-01"},
+  {"name": "RemoteRegistry",  "state": "Stopped",  "start_type": "Disabled",  "pid": null, "host": "DEMO-PC-01"},
+  {"name": "TapiSrv",         "state": "Degraded", "start_type": "Manual",    "pid": 5601, "host": "DEMO-PC-01"},
+  {"name": "VSS",             "state": "Stopped",  "start_type": "Automatic", "pid": null, "host": "DEMO-PC-01"}
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "event_id": 7034,
+    "level": "Error",
+    "source": "Service Control Manager",
+    "message": "The Print Spooler service terminated unexpectedly. It has done this 3 time(s).",
+    "timestamp": "2024-01-15T09:23:11Z",
+    "host": "DEMO-PC-01",
+    "count": 3
+  },
+  {
+    "event_id": 41,
+    "level": "Critical",
+    "source": "Kernel-Power",
+    "message": "The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.",
+    "timestamp": "2024-01-14T23:01:55Z",
+    "host": "DEMO-PC-01",
+    "count": 1
+  },
+  {
+    "event_id": 10016,
+    "level": "Error",
+    "source": "DistributedCOM",
+    "message": "The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}.",
+    "timestamp": "2024-01-15T09:15:30Z",
+    "host": "DEMO-PC-01",
+    "count": 12
+  },
+  {
+    "event_id": 36,
+    "level": "Warning",
+    "source": "W32Time",
+    "message": "The time service has not synchronized the system time for 86400 seconds because none of the time service providers provided a usable time stamp.",
+    "timestamp": "2024-01-15T07:00:00Z",
+    "host": "DEMO-PC-01",
+    "count": 2
+  },
+  {
+    "event_id": 4625,
+    "level": "Warning",
+    "source": "Security",
+    "message": "An account failed to log on. Subject: Security ID: SYSTEM. Logon Type: 3.",
+    "timestamp": "2024-01-15T10:02:14Z",
+    "host": "DEMO-PC-01",
+    "count": 5
+  },
+  {
+    "event_id": 6008,
+    "level": "Error",
+    "source": "EventLog",
+    "message": "The previous system shutdown at 11:00:00 PM on 1/14/2024 was unexpected.",
+    "timestamp": "2024-01-15T07:30:00Z",
+    "host": "DEMO-PC-01",
+    "count": 1
+  },
+  {
+    "event_id": 1074,
+    "level": "Information",
+    "source": "User32",
+    "message": "The process wininit.exe has initiated the restart of computer DEMO-PC-01 on behalf of user NT AUTHORITY\\SYSTEM.",
+    "timestamp": "2024-01-15T07:29:55Z",
+    "host": "DEMO-PC-01",
+    "count": 1
+  }
+]

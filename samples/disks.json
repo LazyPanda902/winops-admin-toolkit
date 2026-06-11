@@ -1,0 +1,7 @@
+[
+  {"drive": "C:", "label": "OS",     "total_gb": 238.5,  "used_gb": 198.2,  "free_gb": 40.3,  "host": "DEMO-PC-01"},
+  {"drive": "D:", "label": "Data",   "total_gb": 500.0,  "used_gb": 475.0,  "free_gb": 25.0,  "host": "DEMO-PC-01"},
+  {"drive": "E:", "label": "Backup", "total_gb": 1000.0, "used_gb": 550.0,  "free_gb": 450.0, "host": "DEMO-PC-01"},
+  {"drive": "C:", "label": "OS",     "total_gb": 119.2,  "used_gb": 98.7,   "free_gb": 20.5,  "host": "DEMO-PC-02"},
+  {"drive": "D:", "label": "Apps",   "total_gb": 250.0,  "used_gb": 89.3,   "free_gb": 160.7, "host": "DEMO-PC-02"}
+]
