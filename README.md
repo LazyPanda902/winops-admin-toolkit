@@ -23,7 +23,6 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
 ```
 
-Python 3.11+ required. No third-party runtime dependencies. Installing with `pip install -e .` makes the `winops` command available.
 
 ## Usage
 
@@ -98,7 +97,6 @@ tests/                pytest test suite (one file per module)
 samples/              Sample JSON input files (fake data only)
 config/               Default JSON config
 docs/                 Config reference, usage examples, testing guide, roadmap
-.github/workflows/    GitHub Actions CI (Python 3.11 and 3.12)
 ```
 
 ## Input format overview

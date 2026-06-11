@@ -10,7 +10,6 @@
 - Config file support with per-section threshold overrides
 - Sample JSON input files (fake data, safe to publish)
 - pytest test suite covering all analysis modules, the report builder, and the CLI
-- GitHub Actions CI on Python 3.11 and 3.12 with ruff lint and 80% coverage gate
 - `--output-file` flag to write the report to a file instead of stdout
 - JSON input validation with clear error messages for malformed or missing-field input
 - `winops` CLI entry point via `pip install -e .`
