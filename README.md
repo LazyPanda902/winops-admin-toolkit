@@ -24,7 +24,7 @@ All analysis runs locally against sample or exported JSON input files. No Window
 - Combines services, events, and disks into one prioritized report.
 - Supports text and JSON output for scripts and automation.
 - Runs locally against exported sample data without requiring live Windows host access.
-\n## Setup
+## Setup
 
 ```bash
 git clone https://github.com/LazyPanda902/winops-admin-toolkit.git
