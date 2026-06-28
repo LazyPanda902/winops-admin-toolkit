@@ -14,7 +14,17 @@ All analysis runs locally against sample or exported JSON input files. No Window
 | `disks` | Flags volumes above configurable warning and critical usage thresholds |
 | `report` | Aggregates findings from all three sources into a single prioritized output |
 
-## Setup
+
+
+## Features
+
+- Reviews Windows service-health records from structured JSON.
+- Summarizes event-log severity counts and top recurring errors.
+- Flags disk volumes above configurable warning and critical thresholds.
+- Combines services, events, and disks into one prioritized report.
+- Supports text and JSON output for scripts and automation.
+- Runs locally against exported sample data without requiring live Windows host access.
+\n## Setup
 
 ```bash
 git clone https://github.com/LazyPanda902/winops-admin-toolkit.git
