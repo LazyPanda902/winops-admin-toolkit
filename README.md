@@ -1,9 +1,9 @@
 # WinOps Admin Toolkit
 
 
-A command-line toolkit for reviewing Windows system health from structured JSON records. Analyzes service status, event log data, and disk usage — and generates a combined prioritized findings report.
+A Python CLI that turns exported Windows service, event-log and disk-usage records into prioritized findings for support technicians.
 
-All analysis runs locally against sample or exported JSON input files. No Windows host connection required.
+All analysis runs locally against sample or exported JSON input files. No Windows host connection is required. Findings reflect the supplied snapshots, not live system health or a confirmed root cause.
 
 ## What it does
 
